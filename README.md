@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Az-Zahra Rizqi Fauziyah</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahrarizqi" alt="zahrarizqi" /></a> </p>
-
 - 🌱 I’m currently learning **Web Developing**
 
 - 👨‍💻 All of my projects are available at [https://portofolio-ara.webflow.io/](https://portofolio-ara.webflow.io/)
